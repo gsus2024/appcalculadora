@@ -6,7 +6,7 @@ string opcion=Console.ReadLine();
 Console.WriteLine("Ingrese 2 valores separados por ENTER");
 int n1=int.Parse(Console.ReadLine());
 int n2=int.Parse(Console.ReadLine());
-int resultado=opcion=="s"?new Calculadora().Sumar(n1,n2):0;
+int resultado=opcion=="s"?new Calculadora().Sumar(n1,n2):opcion=="r"? new Calculadora().Restar(n1,n2):0;
 Console.WriteLine("RESULTADO " + resultado);
 
 

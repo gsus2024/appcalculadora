@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("appcalculadora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0b1a80c11165118af0d0d8706bf50ebe4761a37")]
 [assembly: System.Reflection.AssemblyProductAttribute("appcalculadora")]
 [assembly: System.Reflection.AssemblyTitleAttribute("appcalculadora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
