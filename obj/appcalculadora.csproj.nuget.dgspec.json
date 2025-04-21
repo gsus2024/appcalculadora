@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\vsc\\appcalculadora\\appcalculadora.csproj": {}
+    "D:\\yessi\\appcalculadora\\appcalculadora.csproj": {}
   },
   "projects": {
-    "D:\\vsc\\appcalculadora\\appcalculadora.csproj": {
+    "D:\\yessi\\appcalculadora\\appcalculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vsc\\appcalculadora\\appcalculadora.csproj",
+        "projectUniqueName": "D:\\yessi\\appcalculadora\\appcalculadora.csproj",
         "projectName": "appcalculadora",
-        "projectPath": "D:\\vsc\\appcalculadora\\appcalculadora.csproj",
+        "projectPath": "D:\\yessi\\appcalculadora\\appcalculadora.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\vsc\\appcalculadora\\obj\\",
+        "outputPath": "D:\\yessi\\appcalculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
